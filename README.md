@@ -10,7 +10,7 @@ A link to the deployed application as well as insctructions can be found below.
 
 **Deployed Application URL**
 ----------------
-https://kylegibson0827.github.io/Code-Quiz/
+https://kylegibson0827.github.io/Work-Day-Planner-HW/
 
 **Directions**
 ----------------
