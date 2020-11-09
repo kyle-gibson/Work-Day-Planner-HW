@@ -28,8 +28,8 @@ https://kylegibson0827.github.io/Code-Quiz/
 
 **Code Style**
 ----------------
-HTML
-CSS
+HTML,
+CSS,
 Javascript
 
 **Screenshot**
