@@ -10,7 +10,7 @@ A link to the deployed application as well as insctructions can be found below.
 
 **Deployed Application URL**
 ----------------
-https://kylegibson0827.github.io/Work-Day-Planner-HW/
+https://kyle-gibson.github.io/Work-Day-Planner-HW/
 
 **Directions**
 ----------------
@@ -35,3 +35,9 @@ Javascript
 **Screenshot**
 ----------------
 ![image](https://github.com/kylegibson0827/Work-Day-Planner-HW/blob/main/assets/instructionSS.png)
+
+**Contact Information**
+----------------
+E-mail: kyle.gibson22@yahoo.com
+Phone: (714)300-3617
+
