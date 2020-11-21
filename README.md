@@ -1,4 +1,4 @@
-**Code Quiz Homework**
+**Work Day Planner Homework**
 ----------------
 
 **Description**
